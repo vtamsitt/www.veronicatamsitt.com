@@ -16,3 +16,8 @@ body {
   margin-right:30px;
 }
 
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
